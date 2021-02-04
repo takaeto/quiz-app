@@ -1,3 +1,13 @@
 # quiz-app
 
-https://lucid.app/lucidchart/e748e999-d9a0-4e7d-b5e3-590d669e3121/edit?beaconFlowId=D3E8C481AEFE6BBE&page=0_0#?folder_id=home&browser=icon
+## persona
+コロナ禍の老人介護施設等におけるレクレーションの選択肢のひとつとして、作成しました。
+今は集まれない事を想定し、一人で楽しめる物をと考えました。
+
+## 要件定義
+https://gyazo.com/21933cb1999da011d0355f880674a27c
+
+## 運用
+JavaScriptで作成した為、内部の問題数は如何様にも追加可能。
+問題数によって、最後の結果の分母も連動する。
+更に、問題の内容も施設内で起こった事など、自由に設定可能。
