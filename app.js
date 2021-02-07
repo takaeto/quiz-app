@@ -8,7 +8,7 @@ const quiz = [
     answers: [ '団栗', '丼栗', '呑栗', '曇栗'],
     correct: '団栗'
   }, {
-    question: '計算問題　３ + ６ =「？」',
+    question: '計算問題 ３ + ６ =「？」',
     answers: [ '１８', '９', '３', '８'],
     correct: '９'
   }, {
