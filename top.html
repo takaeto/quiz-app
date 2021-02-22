@@ -16,7 +16,7 @@ myCnt = 0;
 function myFade(){
    if (myCnt != 16){
       document.bgColor = "#" + myColor[myCnt];
-      myTime = ( myCnt==0 || myCnt==700 ) ? 1000 : 50;
+      myTime = ( myCnt==0 || myCnt==1000 ) ? 1000 : 50;
       myCnt++;
       setTimeout( "myFade()", myTime );
    }else{
@@ -31,10 +31,10 @@ function myFade(){
     <strong>さあ、答えを選んで…</strong>
   </font><br><br>
   <font color="#FFFFFF" size="6">
-    <strong>クイズ タイムショック!!</strong>
+    <strong></strong>
   </font><br><br>
   <font color="#000000" size="6">
-    <strong></strong>
+    <strong>クイズ タイムショック!!</strong>
   </font><br>
 </p>
 
