@@ -16,7 +16,7 @@ myCnt = 0;
 function myFade(){
    if (myCnt != 16){
       document.bgColor = "#" + myColor[myCnt];
-      myTime = ( myCnt==0 || myCnt==1000 ) ? 2000 : 50;
+      myTime = ( myCnt==0 || myCnt==1400 ) ? 2000 : 50;
       myCnt++;
       setTimeout( "myFade()", myTime );
    }else{
