@@ -11,6 +11,9 @@
 ## 要件定義
 https://gyazo.com/21933cb1999da011d0355f880674a27c
 
+## DEMO
+https://gyazo.com/4de6f19146c7df498845e7da08d37917
+
 ## 運用
 JavaScriptで作成した為、内部の問題数は如何様にも追加可能。
 問題数によって、最後の結果の分母も連動する。
